@@ -22,7 +22,7 @@ for(broj = 1; broj <101; broj++){
     }
 }; */
 
-// zadatak broj 3. Sahovska tabla
+// zadatak broj 3 Sahovska tabla
 
 
 var size = 8; //this is the variable setting
